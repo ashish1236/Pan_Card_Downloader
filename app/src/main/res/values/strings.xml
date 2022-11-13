@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">Pan Card</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id1">ca-app-pub-9986980606552169/2093057780</string>
+    <string name="interstitial_ad_unit_id2">ca-app-pub-9986980606552169/5430996550</string>
+
+    <string name="interstitial_ad_unit_id3">ca-app-pub-9986980606552169/2141159249</string>
+
+    <string name="interstitial_ad_unit_id4">ca-app-pub-9986980606552169/7413667225</string>
+
+    <string name="interstitial_ad_unit_id5">ca-app-pub-9986980606552169/8770146779</string>
+
+    <string-array name="intruction">
+        <item>How to Download PAN Card?
+
+There are two ways to do this: using PAN number and date of birth or using the acknowledgement number.
+
+Using PAN and Date of Birth
+
+By using the date of birth and PAN Card, you can download e-PAN Card. Following are the steps to download PAN Card.
+
+Step 1: Visit the NSDL PAN portal by clicking continue button.
+
+Step 2: Here, enter PAN number, Aadhar Card number and date of birth in MM and YYYY format. Enter GSTIN number if available.
+
+Step 3: Then, click on the check box after reading the contents, enter the captcha code for verification, and click on submit. You will be able to download PDF format PAN Card.
+
+
+
+Using Acknowledgement Number
+
+You can download e-PAN Card using the acknowledgement number. Following are the steps to download Pan Card:
+
+Step 1: Visit the NSDL Pan portal and select the acknowledgement number.
+
+Step 2: Enter Acknowledgement number and date of birth in MM and YYYY format. Enter the captcha code and submit it.
+
+Step 3: Then enter mobile number and e-mail ID and click on ‘Generate OTP’.
+
+Step 4: In the next step, enter the OTP and click on ‘Validate’.
+
+Step 5: A PDF file will be available for download. Click on it to download PDF format PAN Card. The e-PAN Card is a password-protected file, and the password is the date of birth in DDMMYYYY’ format.</item>
+        <item>Steps to Track PAN Application Status Using 15-digit Acknowledgement Number
+
+Follow the steps mentioned below for PAN Card transaction status through the NSDL website:
+
+Step 1: Visit the official website of NSDL by clicking continue button
+
+Step 2: Click on the “Track PAN Status” option
+
+Step 3: Now, select “PAN-New/Change Request” from the “Application Type” section
+
+Step 4: Enter your 15-digit acknowledgement number in the given field
+
+Step 5: To verify status of PAN card application, enter the captcha code from the given box
+
+Step 6: Click on “Submit” button
+
+Step 7: The status of your PAN Card application will appear on your screen.
+
+Note: Online Tracking of a PAN card application can be carried out by an individual only after 24 hours of filing the application.</item>
+        <item>Step by Step Guide to Apply for a PAN Card Online
+
+Following are the steps to be followed to apply for a PAN card online through NSDL–
+
+Step 1: Open the NSDL site by clicking continue button.
+
+Step 2: Select the Application type – New PAN for Indian citizens, foreign citizens or for change/correction in existing PAN data.
+
+Step 3: Select your category – individual, associations of persons, a body of individuals, etc.
+
+Step 4: Fill in all the required details like name, date of birth, email address and your mobile number in the PAN form.
+
+Step 5: On submitting the form, you will get a message regarding the next step.
+
+Step 6: Click on the “Continue with the PAN Application Form” button.
+
+Step 7: You will be redirected to the new page where you have to submit your digital e-KYC.
+
+Step 8: Select whether you need physical PAN card or not and provide the last four digits of your Aadhaar number.
+
+Step 9: Enter your personal details, contact and other details in the next part of the form
+
+Step 10: Enter your area code, AO Type and other details in this part of the form. You can also find these details in the tab below
+
+Step 11: The last part of the form is the document submission and declaration.
+
+Step 12: Enter the first 8 digits of your PAN card to submit the application. You will get to see your completed form. Click Proceed if no modification is required.
+
+Step 13: Select the e-KYC option to verify using Aadhaar OTP. For Proof of Identity, Address and Date of Birth, select Aadhaar in all fields and click on Proceed to continue.
+
+Step 14: You will be redirected to the payment section where you have to make payment either through demand draft or through net banking/debit/credit card.
+
+Step 15: A payment receipt will be generated on successful payment. Click on Continue.
+
+Step 16: Now for Aadhaar Authentication, tick the declaration and select “Authenticate” option.
+
+Step 17: Click on “Continue with e-KYC” after which an OTP will be sent to the mobile number linked with Aadhaar.
+
+Step 18: Enter the OTP and submit the form.
+
+Step 19: Now click on “Continue with e-Sign” after which you will have to enter your 12-digit Aadhaar number. An OTP will be sent to the mobile number linked with Aadhaar.
+
+Step 20: Enter OTP and submit the application to get the Acknowledgement slip in pdf having your date of birth as the password in DDMMYYYY format.</item>
+        <item>How to Link PAN Card to Aadhaar Card Online through e-Filing Website
+
+People can get their PAN and Aadhaar linked online by following the steps mentioned below:
+
+Step 1. Visit the Income Tax e-Filing website by clicking continue button
+
+Step 2. Enter your PAN and Aadhaar number
+
+Step 3. Enter the name as mentioned in your Aadhaar card
+
+Step 4. In case the date of birth is mentioned on your Aadhaar card you have to tick the box
+
+Step 5. Tick mark ‘I agree to validate my Aadhaar details with UIDAI’
+
+Step 6. Click on the ‘Link Aadhaar’ button
+
+Step 7. Next, enter the OTP that you receive on your mobile number and click on ‘Validate’.
+
+Step 8. A pop-up message will appear showing your successfully linked Aadhaar with PAN Card</item>
+        <item>[8:18 PM, 11/13/2022] Ashish Gangwar: How to Link PAN Card to Aadhaar Card Online through e-Filing Website
+
+People can get their PAN and Aadhaar linked online by following the steps mentioned below:
+
+Step 1. Visit the Income Tax e-Filing website by clicking continue button
+
+Step 2. Enter your PAN and Aadhaar number
+
+Step 3. Enter the name as mentioned in your Aadhaar card
+
+Step 4. In case the date of birth is mentioned on your Aadhaar card you have to tick the box
+
+Step 5. Tick mark ‘I agree to validate my Aadhaar details with UIDAI’
+
+Step 6. Click on the ‘Link Aadhaar’ button
+
+Step 7. Next, enter the OTP that you receive on your mobile number and click on ‘Validate’.
+
+Step 8. A pop-up message will appear showing your successfully linked Aadhaar with PAN Card
+[8:18 PM, 11/13/2022] Ashish Gangwar: How to Apply for PAN Card Correction Online
+
+You can easily update/correct your details in a PAN card by following the below-mentioned steps:
+
+Step 1: Visit the official website of NSDL E-Governance by clicking continue button.
+
+Step 2: Under Services Section, Click on “PAN”.
+
+Step 3: Click “Apply” under the “Change/Correction in PAN Data” section.
+
+Step 4: From the ‘Application Type’ dropdown menu, select ‘Changes or Correction in existing PAN data/Reprint of PAN Card (No changes in Existing PAN Data)’.
+
+Step 5- From the ‘Category’ dropdown menu, select the correct category of the assessee, For example, if the PAN is registered in your name, select ‘Individual’ from the list.
+
+Step 6- Now, enter your name, date of birth, email address, and mobile number.
+
+Step 7- Fill the Captcha and click on “Submit”.
+
+Step 8- Your request will be registered and a Token Number will be sent to the email ID provided by you. You can continue the process by clicking the button given below it.
+
+Step 9- After you proceed, you will be redirected to the form – there are three options to submit your documents, click on “Submit scanned images through e-Sign on NSDL e-gov”.
+
+Step 10- Fill in all the necessary details such as your father’s name, mother’s name (optional), your Aadhaar number and click on ‘Next’.
+
+Step 11- You will now be redirected to a new page where you can update your address.
+
+Step 12- Upload all the necessary documents such as proof of address, proof of age, proof of identity and PAN.
+
+Step 13- You need to sign the declaration and click “Submit”.
+
+Step 14- You will be redirected to the payment page. Payment can be made through demand draft, net banking, and Credit card/Debit card.
+
+Step 15- On successful payment, an acknowledgement slip will be generated. The applicant should take a print of it and send it to the NSDL e-gov office along with the physical proof of documents. Also, affix two photographs in the space provided and sign across it. Write ‘Application for PAN Change’ on top of the envelope along with the acknowledgement number.
+
+NSDL Mailing Address:
+
+NSDL e-Gov at Income Tax PAN Services Unit,
+NSDL e-Governance Infrastructure Limited,
+5th Floor, Mantri Sterling, Plot No. 341,
+Survey No. 997/8, Model Colony,
+Near Deep Bungalow Chowk, Pune – 411 016′
+
+Note: You have to pay the fee towards the correction or update of your PAN details as applicable.</item>
+    </string-array>
+    <string-array name="urls">
+        <item>https://www.onlineservices.nsdl.com/paam/requestAndDownloadEPAN.html</item>
+        <item>https://tin.tin.nsdl.com/pantan/StatusTrack.html</item>
+        <item>https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html</item>
+        <item>https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar</item>
+        <item>https://tin.tin.nsdl.com/pan/correctiondsc.html</item>
+    </string-array>
+</resources>
